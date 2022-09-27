@@ -210,7 +210,7 @@ body {
     height: 72px;
     position: absolute;
     top: 746px;
-    left: 629px;
+    left: 630px;
     flex-grow: 0;
     font-family: PlayfairDisplay;
     font-size: 48px;
@@ -233,7 +233,7 @@ body {
     height: 240px;
     position: absolute;
     top: 900px;
-    left: 222px;
+    left: 175px;
     border-radius: 20px 0px 0px 20px;
     padding: 133px 38.9px 132px 50.4px;
     background-color: #fff;
@@ -309,13 +309,13 @@ body {
     height: 240px;
     position: absolute;
     top: 0px;
-    left: 540px;
+    left: 538px;
     border-radius: 0px 20px 20px 0px;
     padding: 133px 38.9px 132px 50.4px;
     background-color: rgba(255, 199, 0, 0.38);
   }
   .project-nfo2 {
-    width: 453px;
+    width: 460px;
     height: 240px;
     position: absolute;
     top:550px;
@@ -353,22 +353,22 @@ body {
     color: #070055;
   }
   .blueRectangle {
-    width: 496px;
+    width: 505px;
     height: 479px;
     position: absolute;
     top: 00;
-    left: -528px;
+    left: -535px;
     padding: 0 17px 0 16px;
     border-radius: 20px 0px 0px 20px;
     background-color: rgba(7, 0, 85, 0.27);
   }
 
   .project-nfo3 {
-    width: 465px;
+    width: 475px;
     height: 240px;
     position: absolute;
     top: 525px;
-    left: -529px;
+    left: -535px;
     border-radius: 20px 0px 0px 20px;
     padding: 119.5px 8.9px 118.5px 50.4px;
     background-color: #fff;
@@ -403,15 +403,17 @@ body {
   }
   
   .orangeRectangle {
-    width: 510px;
+    width: 520px;
     height: 479px;
     position: absolute;
     top: 00;
-    left: 525px;
+    left: 533px;
     padding: 0 17px 0 16px;
     border-radius: 0px 20px 20px 0px;
     background-color: rgba(185, 66, 18, 0.54);
   }
+/*-------------expertise section-------*/
+
   /*----------Contact Section----------*/
   .contactSection {
     width: 486px;
@@ -506,7 +508,7 @@ body {
   label {
     width: 80px;
     height: 27px;
-    margin: 0 346px 3px 0;
+    margin: 0 310px 3px 0;
     padding: 0 10px 5px 0;
     font-family: Nunito;
     font-size: 16px;
