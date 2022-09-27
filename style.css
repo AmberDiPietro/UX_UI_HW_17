@@ -225,7 +225,7 @@ body {
   .projects {
     width: 992px;
     height: 1892px;
-    margin: 89.1px 226px 100px 222px;
+    margin: 89.1px 226px 150px 222px;
   }
   .project-nfo1 {
     display: inline-block;
@@ -413,6 +413,55 @@ body {
     background-color: rgba(185, 66, 18, 0.54);
   }
 /*-------------expertise section-------*/
+h2 {
+  width: 350px;
+  height: 72px;
+  position: absolute;
+  left: 530px;
+  top: 2500px;
+  flex-grow: 0;
+  font-family: PlayfairDisplay;
+  font-size: 48px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: center;
+  color: #25282b;
+  }
+
+.box1 {
+  width: 377px;
+  height: 360px;
+  float: left;
+  flex-grow: 0;
+margin: 0px 27px 150px 100px;
+  border-radius: 20px;
+  background-color: #e1e0e0;
+  box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.25);
+}
+
+.box2 {
+  width: 377px;
+  height: 360px;
+  float: left;
+  flex-grow: 0;
+  margin: 0px 27px 150px 0px;
+  border-radius: 20px;
+  background-color: #3c3838;
+  box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.25);
+}
+.box3 {
+    width: 377px;
+    height: 360px;
+    float: left;
+    flex-grow: 0;
+    border-radius: 20px;
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.25);
+    background-image: linear-gradient(to left, #d9d9d9 100%, rgba(255, 255, 255, 0.54) 0%);
+
+}
 
   /*----------Contact Section----------*/
   .contactSection {
