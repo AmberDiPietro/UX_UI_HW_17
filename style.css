@@ -362,7 +362,68 @@ body {
     border-radius: 20px 0px 0px 20px;
     background-color: rgba(7, 0, 85, 0.27);
   }
+
+  .project-nfo3 {
+    width: 465px;
+    height: 240px;
+    position: absolute;
+    top: 525px;
+    left: -529px;
+    border-radius: 20px 0px 0px 20px;
+    padding: 119.5px 8.9px 118.5px 50.4px;
+    background-color: #fff;
+  }
+  .doeblocktext {
+    height: 135px;
+    align-self: stretch;
+    flex-grow: 0;
+    font-family: Nunito;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1f1f1f;
+  }
+  .doeButton {
+    width: 102px;
+    height: 27px;
+    flex-grow: 0;
+    font-family: Nunito;
+    font-size: 16px;
+    font-weight: 550;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #070055;
+  }
+  
+  .orangeRectangle {
+    width: 510px;
+    height: 479px;
+    position: absolute;
+    top: 00;
+    left: 525px;
+    padding: 0 17px 0 16px;
+    border-radius: 0px 20px 20px 0px;
+    background-color: rgba(185, 66, 18, 0.54);
+  }
   /*----------Contact Section----------*/
+  .contactSection {
+    width: 486px;
+    height: 369px;
+    flex-grow: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 32px;
+    padding: 0;
+  }
   .footerHeader {
     width: 425px;
     height: 72px;
@@ -384,7 +445,7 @@ body {
     height: 54px;
     float: left;
     flex-grow: 0;
-    margin: 138px 65px 31.2px 210.5px;
+    margin: 15px 65px 31.2px 210.5px;
     font-family: Nunito;
     font-size: 20px;
     font-weight: normal;
@@ -431,7 +492,7 @@ body {
   {
     display: inline-block;
     width: 475px;
-    margin: -100px 0px 0px 711px;
+    margin: -200px 0px 0px 711px;
   
   }
   input {
@@ -491,12 +552,19 @@ body {
     bottom: 140px;
   }
   
-  
+    footer {
+      position: absolute;
+width: 100%;
+height: 60px;
+    }
+  hr {
+    margin: 400px 25px 25px 25px;
+  }
   .Ambers-Portfolio-2022 {
-    display: inline-block;
     width: 139px;
     height: 18px;
-    margin: 0px 25px 25px;
+    margin: 500px;
+    padding: 25px;
     flex-grow: 0;
     font-family: Nunito;
     font-size: 12px;
